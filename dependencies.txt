@@ -1,0 +1,15 @@
+npx create-expo-app meuApp --template
+
+https://www.npmjs.com/package/babel-plugin-module-resolver
+npm install --save-dev babel-plugin-module-resolver
+
+styled-components
+
+* como não estava reconhecendo para chamar nos estilos, tive que instalar uma versão anterior *
+npm i styled-components@5.3.9
+npm i --save-dev  @types/styled-components @types/styled-components-react-native
+
+npx expo install expo-font @expo-google-fonts/roboto
+
+npm i --save phosphor-react-native
+npx expo install react-native-svg
